@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dropbox Android</string>
+    <string name="file_browser">Browse file</string>
+    <string name="upload_btn1">Upload File</string>
+    <string name="listFile">List Files</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="key_token">KeyToken</string>
+    <string name="upload_btn2">Upload</string>
+    <string name="download_btn2">Download</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="open_btn">Open</string>
+    <string name="move_btn">Move</string>
+    <string name="logout_btn">Logout</string>
+    <string name="home_btn">Home</string>
+    <string name="refresh_btn">Refresh</string>
+    <string name="folder_missing">Please choose a folder</string>
+    <string name="title_activity_file_browser">FileBrowser</string>
+    <string name="title_activity_dropbox_folder_browser">DropboxFolderBrowser</string>
+</resources>
